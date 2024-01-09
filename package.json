@@ -1,0 +1,23 @@
+{
+  "name": "0109",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.2",
+    "package_name": "^1.0.2"
+  },
+  "devDependencies": {
+    "sass": "^1.69.7",
+    "vite": "^5.0.11"
+  },
+  "description": ""
+}
